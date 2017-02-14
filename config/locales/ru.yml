@@ -1,6 +1,6 @@
 # Sample localization file for English. Add more files in this directory for other locales.
 # See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
 
-en:
+ru:
   spree:
-    visible_in_taxon_list: 'visible in taxon list?'
+    visible_in_taxon_list: 'Показывать в меню?'
